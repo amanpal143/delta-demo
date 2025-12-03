@@ -6,4 +6,7 @@ this a demo for git and github.
 debasis sir
 
 # student
-Aman
+Aman pal
+
+# skill
+java sql js 
